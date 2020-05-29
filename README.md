@@ -2,11 +2,17 @@
 
 This package enables you to create route groups and assign middlewares to those groups.
 
+## Install
+
+```shell
+npm install @jinoantony/express-route-group
+```
+
 ## Usage
 
 ```js
 const express = require('express')
-require('express-route-group')(express.Router)
+require('@jinoantony/express-route-group')(express.Router)
 const router = express.Router()
 
 ...

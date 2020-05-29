@@ -1,6 +1,6 @@
 {
-  "name": "express-route-group",
-  "version": "1.0.0",
+  "name": "@jinoantony/express-route-group",
+  "version": "1.0.1",
   "description": "A package to add route groups and group specific middlewares in express",
   "main": "src/index.js",
   "scripts": {
