@@ -1,0 +1,17 @@
+{
+  "name": "express-route-group",
+  "version": "1.0.0",
+  "description": "A package to add route groups and group specific middlewares in express",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": ">=6.17.1"
+  },
+  "author": "Jino Antony",
+  "license": "MIT"
+}
